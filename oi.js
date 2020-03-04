@@ -1,1 +1,0 @@
-Olá mundo, tudo ok?
